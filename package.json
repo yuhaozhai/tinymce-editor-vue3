@@ -1,7 +1,16 @@
 {
   "name": "@cjsz/tinymce-editor-vue3",
   "private": false,
-  "version": "1.0.9",
+  "version": "1.1.0",
+  "description": "长江数字富文本编辑器vue3版本",
+  "author": "zyh619",
+  "keywords": [
+    "tinymce",
+    "editor",
+    "cjsz",
+    "vue3",
+    "vite"
+  ],
   "files": [
     "dist"
   ],
